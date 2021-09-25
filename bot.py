@@ -3,6 +3,7 @@
 #instagram username : claude.kirsky    ======legacy
 #mail adress : groupe.insta.test@gmail.com  =========legacy
 #mail password : 89zf8fz98f7z98f7z98f7z97   ===========legacy
+#https://prod.liveshare.vsengsaas.visualstudio.com/join?5BA88742976D6BFB1968BEBE179F8CDE75FB
 
 import json
 from os import kill  
